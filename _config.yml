@@ -1,0 +1,14 @@
+layout_spectrum: 0.19963464653119445
+typography_spectrum: 0.36393276206217706
+color:
+  brandStrength: 0.5707369833253324
+  lightness: 0.2626305704470724
+  saturation: 0.17792345071211457
+  rhythmicContrast: 0.9244252773933113
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+name: nervous robot
